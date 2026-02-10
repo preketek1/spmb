@@ -1,0 +1,20 @@
+# Images (will be replaced with actual images)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Keep placeholder images
+!placeholder-*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
